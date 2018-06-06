@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts PUBLIC
+        "-//Apache Software Foundation//DTD Struts Configuration 2.5//EN"
+        "http://struts.apache.org/dtds/struts-2.5.dtd">
+        
+<struts>
+	<!-- 第一步导入相关jar包 
+		第二步 复制struts.xml文件到项目中
+		第三步 在web.xml中加入过滤器代码
+	-->
+</struts>
